@@ -1,5 +1,5 @@
 # rewards
  
 To Run Project:
-npm install
-npm star
+npm install;
+npm start
